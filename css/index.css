@@ -1,0 +1,37 @@
+.cuerpo {
+    background-color: #ebd1af;
+    border: 10px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 20px;
+    display: flex;
+  justify-content: center;
+}
+
+img {
+    border-radius: 8px;
+    width:200px;
+    height:250px;
+    
+  }
+
+  div.contenedor {
+    width: 26%;
+    background-color: white;
+    box-shadow: 5px 5px 0px #ebd1af;
+
+    text-align: center;
+  padding: 10px 20px; 
+
+  display: flex;
+  justify-content: center;
+}
+ 
+div{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
+
